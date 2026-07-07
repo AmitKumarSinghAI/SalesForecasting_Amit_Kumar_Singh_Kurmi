@@ -304,4 +304,4 @@ Possible improvements:
 
 # Author
 
-Amit Kumar Singh
+Amit Kumar Singh Kurmi
