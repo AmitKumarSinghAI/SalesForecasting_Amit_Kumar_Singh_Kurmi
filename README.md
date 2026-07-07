@@ -1,4 +1,4 @@
-# Sales Forecasting and Demand Intelligence System
+# Final Assignment :Sales Forecasting and Demand Intelligence System
 
 An end-to-end machine learning project that analyzes retail sales data, forecasts future demand, detects unusual sales behavior, and segments products based on demand patterns.
 
